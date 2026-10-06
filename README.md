@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tatsuki / Kohaku912
+# 河原 樹 / Kohaku912
 
 **バックエンド・アプリケーション開発** ｜ N高等学校 3年次（ネットコース）｜ 2027年3月 卒業見込み
 
@@ -59,7 +59,7 @@ Python / Java / Kotlin / C++ を中心に、サーバーサイドからアプリ
 部屋の中の物を把持・運搬するロボットアームの制御。`Python` `LiDAR`
 
 ### ✂️ [RealNote](https://github.com/Kohaku912/RealNote) — ちぎれるメモ帳
-**ZenStudy 動く web ページコンテスト 優秀賞**。`HTML` `CSS` `JavaScript`
+**ZEN Study 動くWebページコンテスト 2025 夏 優秀賞／角川ドワンゴ学園部門**。`HTML` `CSS` `JavaScript`
 
 ### 🏛️ [MyMuseum](https://github.com/Kohaku912/MyMuseum) — 3D ミュージアム
 WebGL で作った自分だけの 3D ミュージアム。`HTML` `JavaScript` `WebGL`
@@ -71,13 +71,15 @@ WebGL で作った自分だけの 3D ミュージアム。`HTML` `JavaScript` `W
 | 2026年6月頃（約1か月） | 株式会社ナノベース | 業務委託 | フルスタックエンジニア |
 | 2025年8月頃（約2週間） | 株式会社ビーライズ | インターン | XRエンジニア |
 
+ナノベースでは **PHP / Laravel** で就職・求人サイトの改修をフルスタックに担当しました。ビーライズでは **Unity** でごみ処理場の 3D 見学アプリと、音楽系マネージャー機能の実装・バグ修正を担当しました。
+
 ## 資格・受賞
 
 - 🏅 **基本情報技術者試験** 合格（2025年9月）
 - 📈 **AtCoder 水色**（Rating 1249 / 4級）
 - 🥈 第6回 学力向上アプリコンテスト **優秀賞**（2025年10月）
-- 🥈 ZenStudy 動く web ページコンテスト **優秀賞**（2025年10月）
-- 🏅 ZEN Study 動く Web アプリコンテスト 冬 **ラムダ技術部特別賞**（2025年3月）
+- 🥈 ZEN Study 動くWebページコンテスト 2025 夏 **優秀賞**／角川ドワンゴ学園部門（2025年10月）
+- 🏅 ZEN Study 動くWebアプリコンテスト 2024 冬 **ラムダ技術部特別賞**（「SpeedyFingers」・2025年3月）
 
 ## いま取り組んでいること
 
